@@ -1,4 +1,4 @@
-* ### how2use?!?!?
+### how2use?!?!?
 * `pip install pillow`
 * download the file in this repository and create a shortcut of it
 * windows key + r, enter `shell:sendto`
